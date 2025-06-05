@@ -216,3 +216,7 @@ venv/
 *.tsv
 *.tmp
 *.bak
+
+# Training Dataset 
+training.1600000.processed.noemoticon.csv
+!sample_sentiment_dataset.csv

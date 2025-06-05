@@ -11,13 +11,12 @@ This project performs sentiment classification on Twitter data using TF-IDF vect
 ## 📁 Project Structure
 
 TFIDF-Sentiment-Analysis/
-├── TF-IDFSentimentAnalysis.ipynb        		# Main notebook
-├── NLP TF-IDF Sentiment Analysis.pdf        		# Project summary
-├── requirements.txt                     		# Python dependencies
-├── README.md                            		# Project documentation
-├── .gitignore                           		# Git exclusion rules
-├── sample_sentiment_dataset.csv 			# 5K sample of original dataset
-└── training.1600000.processed.noemoticon.csv  	# Dataset
+├── TF-IDFSentimentAnalysis.ipynb  							  # Main notebook
+├── NLP TF-IDF Sentiment Analysis.pdf        		  # Project summary
+├── sample_sentiment_dataset.csv 			            # 5K sample of original dataset
+├── requirements.txt                              # Python dependencies
+├── README.md                                     # Project documentation
+└── .gitignore                                    # Git exclusion rules
 
 ---
 

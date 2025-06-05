@@ -10,6 +10,7 @@ This project performs sentiment classification on Twitter data using TF-IDF vect
 
 ## 📁 Project Structure
 
+```
 TFIDF-Sentiment-Analysis/
 ├── TF-IDFSentimentAnalysis.ipynb  							  # Main notebook
 ├── NLP TF-IDF Sentiment Analysis.pdf        		  # Project summary
@@ -17,6 +18,7 @@ TFIDF-Sentiment-Analysis/
 ├── requirements.txt                              # Python dependencies
 ├── README.md                                     # Project documentation
 └── .gitignore                                    # Git exclusion rules
+```
 
 ---
 

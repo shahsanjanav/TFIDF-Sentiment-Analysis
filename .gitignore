@@ -1,0 +1,24 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Envs
+.env
+.venv
+env/
+venv/
+
+# System/IDE
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Output
+*.csv
+*.tsv
+*.tmp
+*.bak
